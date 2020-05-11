@@ -1,2 +1,2 @@
 # netauto
-git remote e-learning
+git remote testing
